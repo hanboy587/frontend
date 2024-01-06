@@ -1,0 +1,66 @@
+import { BoardListItem } from "types/interface";
+
+const latestBoardListMock: BoardListItem[] = [
+    {
+        boardNumber: 1,
+        title: '오늘의 도마뱀, 고양이',
+        content: '오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다',
+        boardTitleImage: 'https://mblogthumb-phinf.pstatic.net/MjAxODA2MjBfMTU1/MDAxNTI5NDg3OTU0MjI2.FsYBwCGihGmb0IA_om2mHaAP5SbJfmyLMnV4GDA9kpIg.S4Gss4O9EOc-N2D3alFckSeirOlDbDgLAdhgfWEykQIg.JPEG.kjonga/1.jpg?type=w800',
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023. 10. 23. 08:57:21",
+        writerNickname: "닉네임예시",
+        writerProfileImage: 'https://images.mypetlife.co.kr/content/uploads/2023/01/03112035/bay._.curry_thumnail.png',
+    },
+    {
+        boardNumber: 1,
+        title: '오늘의 도마뱀, 고양이',
+        content: '오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다',
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023. 10. 23. 08:57:21",
+        writerNickname: "닉네임예시",
+        writerProfileImage: null,
+    },
+    {
+        boardNumber: 1,
+        title: '오늘의 도마뱀, 고양이',
+        content: '오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다',
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023. 10. 23. 08:57:21",
+        writerNickname: "닉네임예시",
+        writerProfileImage: null,
+    },
+    {
+        boardNumber: 1,
+        title: '오늘의 도마뱀, 고양이',
+        content: '오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다',
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023. 10. 23. 08:57:21",
+        writerNickname: "닉네임예시",
+        writerProfileImage: null,
+    },
+    {
+        boardNumber: 1,
+        title: '오늘의 도마뱀, 고양이',
+        content: '오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다오늘의 도마뱀...고양이...귀엽다',
+        boardTitleImage: null,
+        favoriteCount: 0,
+        commentCount: 0,
+        viewCount: 0,
+        writeDatetime: "2023. 10. 23. 08:57:21",
+        writerNickname: "닉네임예시",
+        writerProfileImage: null,
+    }
+]
+
+export default latestBoardListMock;
